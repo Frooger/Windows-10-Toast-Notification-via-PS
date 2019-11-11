@@ -13,7 +13,7 @@ D: Partition.
 
 Review it:
 Task scheduling->run Info-XXX Task
-## Create own Notification
+# Create own Notification
 
 ### Layout
 Create your own Layout XML file based on the sample files in 
