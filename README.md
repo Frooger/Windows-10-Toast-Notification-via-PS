@@ -21,5 +21,4 @@ Windows-10-Toast-Notification-via-PS/PS-Skripte/PS-Skripte/
 ### Scheduling Task
 Go to task scheduling and create a new task with this action:
 #### powershell -file D:\PS-Skripte\Info.ps1 D:\PS-Skripte\Bäcker\Bäcker.xml
-task scheduling
- 
+and you trigger like everyday 10am
