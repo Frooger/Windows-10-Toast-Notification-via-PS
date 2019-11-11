@@ -22,6 +22,4 @@ Windows-10-Toast-Notification-via-PS/PS-Skripte/PS-Skripte/
 Go to task scheduling and create a new task with this action:
 #### powershell -file D:\PS-Skripte\Info.ps1 D:\PS-Skripte\Bäcker\Bäcker.xml
 task scheduling
-
-# FAQ
-In Case you have no D: Partition you have to Edit the ps1 file.
+ 
