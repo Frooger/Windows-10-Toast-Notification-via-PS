@@ -1,0 +1,14 @@
+ <toast launch="action=viewPhoto&amp;photoId=92187" scenario="reminder">
+ <visual>
+  <binding template="ToastGeneric">
+   <image placement="appLogoOverride" hint-crop="circle" src="D:\PS-Skripte\Bäcker\logo.jpg"/>
+   <text>Lust auf ein belegtes Brötchen ?</text>
+   <text>Der Bäckerwagen ist in 5min da! </text>
+   <image src="D:\PS-Skripte\Bäcker\bäcker-full.jpg"/>
+  </binding>
+ </visual>
+ <actions>
+  <action content="Alles Klar" arguments="likePhoto&amp;photoId=92187"/>
+  <action content="Nein Danke" arguments="action=commentPhoto&amp;photoId=92187"/>
+ </actions>
+</toast>
