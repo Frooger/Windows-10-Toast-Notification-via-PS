@@ -8,4 +8,4 @@ und PS-Skripte nach D:\
 kopieren 
 
 zur kontrolle 
-Aufgabe ausführen
+Aufgabe in Aufgabenplanung ausführen
